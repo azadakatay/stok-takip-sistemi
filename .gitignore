@@ -1,8 +1,14 @@
+# Visual Studio
 .vs/
+
+# Build outputs
 bin/
 obj/
 
-*.mdf
-*.ldf
+# NuGet packages
+packages/
 
-appsettings.json
+# User-specific files
+*.user
+*.suo
+*.cache
